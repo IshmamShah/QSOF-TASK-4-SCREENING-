@@ -19,3 +19,9 @@ sishmam51@gmail.com
 
 
 The task has been solved in Jupyter Notebook using Qiskit and NumPy.
+
+For completing the tasks I used the following references
+1) https://www.mustythoughts.com/variational-quantum-eigensolver-explained
+2) https://michaelgoerz.net/notes/decomposing-two-qubit-hamiltonians-into-pauli-matrices.html
+3) https://quantumcomputing.stackexchange.com/
+
